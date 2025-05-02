@@ -20,7 +20,7 @@ I'm a 20-year-old tech enthusiast and currently a Diploma 3 (D3) student in Info
 Soon starting an internship focusing on **Laravel** and **Next.js**, where I’ll be deepening my skills in full-stack web development — from backend APIs to interactive frontends.<br><br>
 
 **📫 Let's Connect!<br>**
-- GitHub: [@BagasYudha](https://github.com/BagasYudha)<br>
+- GitHub: [@YudhaJeo](https://github.com/YudhaJeo)<br>
 - [More links coming soon...]<br>
 
 ---<br>
