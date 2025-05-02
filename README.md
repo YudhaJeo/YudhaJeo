@@ -1,4 +1,5 @@
-#👋 Hello World! I'm Yudha:
+#👋 :
+# 💫 Hello World! I'm Yudha:
 
 **💫 About Me:<br>**
 I'm a 20-year-old tech enthusiast and currently a Diploma 3 (D3) student in Information Technology. I love building useful things with code — from Android apps to IoT dashboards — and I'm passionate about clean architecture, modern tools, and making tech accessible for everyone.<br><br>
