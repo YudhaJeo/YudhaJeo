@@ -48,11 +48,8 @@ _“Write code that speaks for you, even when you're offline.”_<br><br>
 
 ---
 
-<!-- for light mode -->
-![GitHub Snake Light](https://github.com/YudhaJeo/YudhaJeo/blob/output/github-snake.svg)
-
-<!-- for dark mode -->
-![GitHub Snake Dark](https://github.com/YudhaJeo/YudhaJeo/blob/output/github-snake-dark.svg)
-
-<!-- or use GIF version -->
-![GitHub Snake GIF](https://github.com/YudhaJeo/YudhaJeo/blob/output/ocean.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
