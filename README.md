@@ -1,5 +1,30 @@
 # 💫 About Me:
-👋 Hi there! I'm Bagas Yudha<br><br>I'm a 20-year-old tech enthusiast and currently a Diploma 3 (D3) student in Information Technology. I love building useful things with code — from Android apps to IoT dashboards — and I'm passionate about clean architecture, modern tools, and making tech accessible for everyone.<br><br>### 🧠 What I Do<br><br>- 🔧 Mobile development with Kotlin (Jetpack Compose)<br>- ☁️ Realtime data systems using Firebase Realtime Database & Firestore<br>- 🔒 Network security experiments using Kali Linux & Debian<br>- 🤖 Discord bots for community automation<br>- 🎨 Creative content & publication (Head of Information Creative Division at **HIMTI**)<br><br>### 🎓 Background<br><br>- 🏫 Graduate of SMK Multimedia<br>- 📰 Former leader of the Jurnalistik extracurricular club during high school<br>- 🎨 Internship experience as a Graphic Designer at **Oerip Indonesia**<br>- 🎬 Internship experience as a Video News Editor at **TATV Solo**<br><br>### 💼 Career Goals<br><br>Soon starting an internship focusing on **Laravel** and **Next.js**, where I’ll be deepening my skills in full-stack web development — from backend APIs to interactive frontends.<br><br>### 📫 Let's Connect!<br><br>- GitHub: [@BagasYudha](https://github.com/BagasYudha)<br>- [More links coming soon...]<br><br>---<br><br>_“Write code that speaks for you, even when you're offline.”_<br>
+👋 Hi there! I'm Bagas Yudha<br><br>
+I'm a 20-year-old tech enthusiast and currently a Diploma 3 (D3) student in Information Technology. I love building useful things with code — from Android apps to IoT dashboards — and I'm passionate about clean architecture, modern tools, and making tech accessible for everyone.<br><br>
+
+🧠 What I Do<br><br>
+- 🔧 Mobile development with Kotlin (Jetpack Compose)<br>
+- ☁️ Realtime data systems using Firebase Realtime Database & Firestore<br>
+- 🔒 Network security experiments using Kali Linux & Debian<br>
+- 🤖 Discord bots for community automation<br>
+- 🎨 Creative content & publication (Head of Information Creative Division at **HIMTI**)<br><br>
+
+🎓 Background<br><br>
+- 🏫 Graduate of SMK Multimedia<br>
+- 📰 Former leader of the Jurnalistik extracurricular club during high school<br>
+- 🎨 Internship experience as a Graphic Designer at **Oerip Indonesia**<br>
+- 🎬 Internship experience as a Video News Editor at **TATV Solo**<br><br>
+
+💼 Career Goals<br><br>
+Soon starting an internship focusing on **Laravel** and **Next.js**, where I’ll be deepening my skills in full-stack web development — from backend APIs to interactive frontends.<br><br>
+
+📫 Let's Connect!<br><br>
+- GitHub: [@BagasYudha](https://github.com/BagasYudha)<br>
+- [More links coming soon...]<br><br>
+
+---<br><br>
+
+_“Write code that speaks for you, even when you're offline.”_<br>
 
 
 💻 Tech Stack:
