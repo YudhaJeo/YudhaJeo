@@ -1,8 +1,8 @@
 # 💫 About Me:
-👋 Hi there! I'm Bagas Yudha<br><br>
+*👋 Hi there! I'm Bagas Yudha<br>*
 I'm a 20-year-old tech enthusiast and currently a Diploma 3 (D3) student in Information Technology. I love building useful things with code — from Android apps to IoT dashboards — and I'm passionate about clean architecture, modern tools, and making tech accessible for everyone.<br><br>
 
-🧠 What I Do<br><br>
+🧠 What I Do<br>
 - 🔧 Mobile development with Kotlin (Jetpack Compose)<br>
 - ☁️ Realtime data systems using Firebase Realtime Database & Firestore<br>
 - 🔒 Network security experiments using Kali Linux & Debian<br>
