@@ -42,3 +42,17 @@ _“Write code that speaks for you, even when you're offline.”_<br><br>
 [![](https://visitcount.itsvg.in/api?id=BagasYudha&icon=0&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<br><br>
+
+---
+
+<!-- for light mode -->
+![GitHub Snake Light](https://github.com/YudhaJeo/YudhaJeo/blob/output/github-snake.svg)
+
+<!-- for dark mode -->
+![GitHub Snake Dark](https://github.com/YudhaJeo/YudhaJeo/blob/output/github-snake-dark.svg)
+
+<!-- or use GIF version -->
+![GitHub Snake GIF](https://github.com/YudhaJeo/YudhaJeo/blob/output/ocean.gif)
