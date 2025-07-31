@@ -1,9 +1,10 @@
 # 💫 Hello World! I'm Yudha
 
 **💫 About Me:<br>**
-I'm a 20-year-old tech enthusiast and currently a Diploma 3 (D3) student in Information Technology. I love building useful things with code — from Android apps to IoT dashboards — and I'm passionate about clean architecture, modern tools, and making tech accessible for everyone.<br><br>
+I'm a 20-year-old tech enthusiast and college student in Information Technology. I love building useful things with code — from Android apps to IoT dashboards — and I'm passionate about clean architecture, modern tools, and making tech accessible for everyone.<br><br>
 
 **🧠 What I Do<br>**
+- 🌐 Web development with Express.js and Next.js<br>
 - 🔧 Mobile development with Kotlin Native<br>
 - ☁️ Realtime data systems using Firebase Realtime Database<br>
 - 🤖 Discord bots for community automation<br>
@@ -18,7 +19,7 @@ I'm a 20-year-old tech enthusiast and currently a Diploma 3 (D3) student in Info
 - 🎬 Internship experience as a Video News Editor at **TATV Solo**<br><br>
 
 **💼 Career Goals<br>**
-Soon starting an internship focusing on **Laravel** and **Next.js**, where I’ll be deepening my skills in full-stack web development — from backend APIs to interactive frontends.<br><br>
+Focusing on **Express.js** and **Next.js**, deepening my skills in full-stack web development — from backend APIs to interactive frontends.<br><br>
 
 **📫 Let's Connect!<br>**
 - GitHub: [@YudhaJeo](https://github.com/YudhaJeo)<br>
