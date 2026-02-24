@@ -3,7 +3,7 @@
 **About Me:<br>**
 I'm a tech enthusiast and college student in Information Technology. I love building useful things with code, from Android apps, IoT dashboards, Web Development, and whatever is it. I'm passionate about clean architecture, modern tools, and making tech accessible for everyone, and for myself sometimes.<br><br>
 
-**"Bro, what your do with that stuff?"<br>**
+**"Bro, what you do with that stuff?"<br>**
 - Web development with Express.js and Next.js<br>
 - Mobile development with Kotlin Native<br>
 - Realtime data systems using Firebase Realtime Database<br>
